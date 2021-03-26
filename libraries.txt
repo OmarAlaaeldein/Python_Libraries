@@ -1,0 +1,12 @@
+from collection import Counter:
+convert a list into dic with unique tools to sort them
+from operator import permutations:
+the name is pretty obvius
+from itertools import itemgetter:
+sort dics
+bin() from
+from itertools import product
+product of two or more arrays
+from itertools import combinations
+create a list of all possible combinations of string
+WHAT IS Navmesh
